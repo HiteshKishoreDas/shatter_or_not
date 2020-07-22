@@ -1,0 +1,7 @@
+OBJ     += lam_cool.o
+OBJ     += lam_heat.o
+OBJ     += lam_heatxt.o
+OBJ     += func_findshock.o
+OBJ     += omega.o
+OBJ     += background.o
+OBJ     += eigenmode.o

@@ -1,0 +1,1 @@
+void LamHeatxt (Grid *GXYZ);
