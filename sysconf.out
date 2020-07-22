@@ -1,0 +1,12 @@
+USER           = hitesh
+WORKING_DIR    = /home/hitesh/Hitesh/Pluto/PLUTO_4.3/TI_uniform/metallicity
+SYSTEM_NAME    = Linux
+NODE_NAME      = niharika
+RELEASE        = 3.13.0-162-generic
+ARCH           = x86_64
+BYTE_ORDER     = little
+VERSION        = #212-Ubuntu SMP Mon Oct 29 12:08:50 UTC 2018
+PLUTO_DIR      = /home/hitesh/Hitesh/Pluto/PLUTO_4.3/
+PLUTO_VERSION  = "4.3"
+C_COMPILER     = gcc
+MPI_C_COMPILER = 

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm output/*
+make clean
+rm heatfunc.txt
+rm term_output.txt
+make -j34
